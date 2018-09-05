@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Junior at Hunter College in the CS Program.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a computer science major at Hunter College and am really excited to work on open source projects that allow for building communication skills. 
 
