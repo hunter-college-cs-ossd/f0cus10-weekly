@@ -8,5 +8,4 @@ Junior at Hunter College in the CS Program.
 
 ### More Information
 
-I am a computer science major at Hunter College and am really excited to work on open source projects that allow for building communication skills. 
-
+I am a very opinionated computer science student with ideas about everything apparently. It is wiser to not listen to me most of the time. 
