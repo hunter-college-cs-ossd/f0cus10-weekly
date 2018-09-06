@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Junior at Hunter College in the CS Program.
+Computer science major at Hunter College. Class of 2020. 
 
-### More Information
+### Disclaimer
 
-I am a very opinionated computer science student with ideas about everything apparently. It is wiser to not listen to me most of the time. 
+I am a *very* opinionated computer science student with ideas about everything apparently. It is wiser to not listen to me most of the time. 
