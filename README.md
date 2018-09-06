@@ -1,3 +1,6 @@
+## Blog URL
+<https://hunter-college-cs-ossd.github.io/f0cus10-weekly>
+
 ### Ownership
 This repository belongs to Hunter College CS Open Source Software Development
 
